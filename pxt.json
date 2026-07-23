@@ -1,0 +1,20 @@
+{
+  "name": "Forward Education Tutorials",
+  "description": "MakeCode tutorials authored with Forward Education Tutorial Builder.",
+  "dependencies": {
+    "core": "*",
+    "radio": "*",
+    "microphone": "*"
+  },
+  "files": [
+    "README.md",
+    "org-test/beating-heart.md"
+  ],
+  "preferredEditor": "blocksprj",
+  "supportedTargets": [
+    "microbit"
+  ],
+  "targetVersions": {
+    "targetId": "microbit"
+  }
+}
