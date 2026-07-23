@@ -4,11 +4,13 @@
   "dependencies": {
     "core": "*",
     "radio": "*",
-    "microphone": "*"
+    "microphone": "*",
+    "all-fwd-blocks": "github:forward-education/pxt-all-fwd-blocks#v2.0.1"
   },
   "files": [
     "README.md",
-    "org-test/beating-heart.md"
+    "org-test/beating-heart.md",
+    "org-test/plant-water-alert.md"
   ],
   "preferredEditor": "blocksprj",
   "supportedTargets": [
