@@ -10,7 +10,8 @@
   "files": [
     "README.md",
     "org-test/beating-heart.md",
-    "org-test/plant-water-alert.md"
+    "org-test/plant-water-alert.md",
+    "org-a1b961eb-2231-4f09-996f-14fa37046559/night-light.md"
   ],
   "preferredEditor": "blocksprj",
   "supportedTargets": [
